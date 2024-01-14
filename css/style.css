@@ -5,14 +5,13 @@ html {
 }
 
 body {
-    background-image: url("/img/omotopopo2023_bg_img_00.gif");
-    background-size: 100%;
+    background-image: url("/img/7779d1_bg_body_img_00_2023.gif");    
     font-family: Arial, Helvetica, sans-serif
 }
 
 #container {
     width: 800px;
-    margin-top: 90px;
+    margin-top: 60px;
     margin-left: auto;
     margin-right: auto;
     border-style: solid;
@@ -48,6 +47,7 @@ body {
     text-shadow: 2px 2px 8px;
 }
 
+/*
 #blink_header {
     animation: blink-text 3s linear infinite;
     color: rgb(0, 0, 0);
@@ -66,6 +66,7 @@ body {
         opacity: 0;
     }
 }
+*/
 
 #navigation {
     width: 250px;
