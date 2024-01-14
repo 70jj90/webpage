@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    background-image: "./img/7779d1_bg_body_img_00_2023.gif";
+    background-image: "../img/7779d1_bg_body_img_00_2023.gif";
     /*background-size: 100%;*/
     font-family: Arial, Helvetica, sans-serif
 }
@@ -48,6 +48,7 @@ body {
     text-shadow: 2px 2px 8px;
 }
 
+/*
 #blink_header {
     animation: blink-text 3s linear infinite;
     color: rgb(0, 0, 0);
@@ -66,6 +67,7 @@ body {
         opacity: 0;
     }
 }
+*/
 
 #navigation {
     width: 250px;
