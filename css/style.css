@@ -5,10 +5,12 @@ html {
 }
 
 body {
-    background-image: url("../img/djindji_webpage_2024_bg_img_02.gif");      
+    background-image: url("../img/djindji_24_bg_img_000.gif"); 
+    /*     
     background-attachment: fixed;
     background-size: auto 100%;
-    background-position: center;    
+    background-position: center;
+    */    
     font-family: Arial, Helvetica, sans-serif;
     cursor: url("../img/djindji_cursor_2024_img_00.gif"), auto;
 }
