@@ -1,3 +1,3 @@
 
 
-document.getElementById("footer_info_creds").innerHTML = "Copyright © 2024 Djindji Ergimen --- Last update: 11/03/2024";
+document.getElementById("footer_info_creds").innerHTML = "Copyright © 2024 Djindji Ergimen --- Last update: 12/03/2024";
